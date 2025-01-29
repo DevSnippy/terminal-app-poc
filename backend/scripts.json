@@ -1,0 +1,22 @@
+[
+  {
+    "id": "c1457b52-1ef4-4f15-85f7-e6904476285d",
+    "name": "TEST TEST ",
+    "scriptText": "exit"
+  },
+  {
+    "id": "04037e70-a4c1-4d56-99de-9529f6765552",
+    "name": "test",
+    "scriptText": "ls \necho sup \ncat test.txt  \n"
+  },
+  {
+    "id": "95f0cc40-2e58-44b4-8da7-bb7107e16b46",
+    "name": "TEST",
+    "scriptText": "echo hi liel\nls \npwd"
+  },
+  {
+    "id": "6ab3fbae-5497-4a14-9d9e-3e50966d30a5",
+    "name": "hi",
+    "scriptText": "ls\necho hi there"
+  }
+]

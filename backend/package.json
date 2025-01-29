@@ -1,0 +1,24 @@
+{
+  "name": "component-based-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "dependencies": {
+    "@serialport/parser-readline": "^10.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-ws": "^5.0.2",
+    "serialport": "^10.4.0",
+    "telnet-client": "^2.2.1",
+    "telnet-stream": "^1.1.0",
+    "uuid": "^11.0.2",
+    "wscat": "^6.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

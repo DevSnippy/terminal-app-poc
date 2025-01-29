@@ -1,0 +1,9 @@
+{
+  "TEST": {
+    "TEST": "TEST"
+  },
+  "linux": {
+    "ip a ": "shows ip config",
+    "reboot ": "reboot the system",
+  }
+}
